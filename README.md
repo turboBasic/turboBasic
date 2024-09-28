@@ -1,6 +1,7 @@
-## Hi there 👋
 
 <!--
+# Hi there 👋
+
 **turboBasic/turboBasic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![turboBasic's GitHub stats](https://github-readme-stats.vercel.app/api?username=turboBasic&show_icons=true&theme=transparent&include_all_commits=true)
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=turboBasic&theme=chalk&column=3)](https://github.com/turboBasic)-->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turboBasic&hide=html,php&include_all_commits=true)](https://github.com/turboBasic)-->
