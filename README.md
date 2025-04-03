@@ -41,21 +41,20 @@ tools        | [![other tools icons]](https://skillicons.dev)
 
 ### GitHub stats
 
-![GitHub stats]
+![GitHub stats with PRs]
 
 <!--
 <details>
 <summary style="margin-left: 2em;">expand</summary><br/>
 
-![GitHub stats with PRs]
+![GitHub stats]
 
-    [![trophy](https://github-profile-trophy.vercel.app/?username=turboBasic&theme=chalk&column=3)](https://github.com/turboBasic)
+[![trophy](https://github-profile-trophy.vercel.app/?username=turboBasic&theme=chalk&column=3)](https://github.com/turboBasic)
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turboBasic&hide=html,php&include_all_commits=true)](https://github.com/turboBasic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turboBasic&hide=html,php&include_all_commits=true)](https://github.com/turboBasic)
 
 </details>
 -->
-
 
 <!-- Links -->
 [AWS Certified Cloud Practitioner badge]: /images/aws-certified-cloud-practitioner-logo.svg "AWS Certified Cloud Practitioner badge"
