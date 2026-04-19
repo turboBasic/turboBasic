@@ -17,8 +17,8 @@
 
 ### ask me about anything in my stack
 
-<details>
-<summary style="margin-left: 2em;">expand</summary><br/>
+<!-- <details>
+<summary style="margin-left: 2em;">expand</summary><br/> -->
 
 area         | skills
 ------------ | ------
@@ -28,7 +28,7 @@ languages    | [![languages icons]](https://skillicons.dev)
 CI/CD        | [![ci/cd icons]](https://skillicons.dev)
 tools        | [![other tools icons]](https://skillicons.dev)
 
-</details>
+<!-- </details> -->
 
 
 ### i’m currently learning everything above, plus:
