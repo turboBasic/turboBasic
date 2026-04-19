@@ -1,3 +1,5 @@
+# 🌖
+
 <div style="width: 100%;">
   <img src="images/greeting.svg" style="width: 100%;" alt="Hi there, 👋">
 </div>
@@ -15,7 +17,7 @@
 -->
 
 
-### ask me about anything in my stack
+## ask me about anything in my stack
 
 <!-- <details>
 <summary style="margin-left: 2em;">expand</summary><br/> -->
@@ -31,14 +33,14 @@ tools        | [![other tools icons]](https://skillicons.dev)
 <!-- </details> -->
 
 
-### i’m currently learning everything above, plus:
+## i’m currently learning everything above, plus:
 
 - HashiCorp Certified: Terraform Associate
 - AWS Certified Solutions Architect – Professional
 - Enterprise design patterns
 
 
-### GitHub stats
+## GitHub stats
 
 ![GitHub stats with PRs]
 
