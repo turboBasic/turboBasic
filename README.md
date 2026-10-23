@@ -63,5 +63,5 @@ tools        | [![other tools icons]](https://skillicons.dev)
 
 [ci/cd icons]: https://skillicons.dev/icons?perline=7&i=github,gitlab,jenkins,bitbucket "github,gitlab,jenkins,bitbucket"
 [cloud icons]: https://skillicons.dev/icons?perline=7&i=aws,terraform "aws,terraform"
-[languages icons]: https://skillicons.dev/icons?perline=7&i=java,python,bash,powershell "java,python,bash,powershell"
+[languages icons]: https://skillicons.dev/icons?perline=7&i=java,python,go,bash,powershell "java,python,go,bash,powershell"
 [other tools icons]: https://skillicons.dev/icons?perline=4&i=docker,kubernetes,linux,ansible,grafana,gradle "docker,kubernetes,linux,ansible,grafana,gradle"
